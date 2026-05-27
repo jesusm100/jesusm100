@@ -4,15 +4,15 @@
 
 ### 🚀 Sobre mí
 * 🎓 Estudiante de Octavo Semestre de Ingeniería en Sistemas Computacionales.
-* 💻 Me apasiona el desarrollo web, móvil (React Native, Kotlin) y bases de datos.
-* ⚙️ También integro proyectos con hardware y microcontroladores.
+* 💻 Me apasiona el desarrollo web, móvil (React Native) y bases de datos.
+
 
 ### 🛠️ Mis Habilidades
-* **Lenguajes:** PHP, Kotlin, SQL.
-* **Herramientas:** Git, Android Studio, Arduino, Fedora Linux.
+* **Lenguajes:** PHP, SQL.
+* **Herramientas:** Git, Android Studio, Arduino.
 
 ### 📊 Mis Estadísticas
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jesusm100&show_icons=true&theme=dark)
 
 ### 📫 Contacto
-* 📧 **Email:** [l22070078@valladolid.tecnm.mx]
+* 📧 **Correo electrónico:** [l22070078@valladolid.tecnm.mx](mailto:l22070078@valladolid.tecnm.mx)
